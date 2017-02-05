@@ -1,8 +1,39 @@
-h1 {
-	color: pink;
+html {
+	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
+	background-color: black;
+	text-align: center;
+	color: white;
 }
 
-html {
-	text-align: center;
-	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
+h1 {
+	color: red;
+	font-size: 300px;
+}
+
+h2 {
+	color: red;
+	font-size: 100px;
+}
+
+p {
+	background-color: red;
+	color: white;
+	font-size: 25px;
+	padding: 50px;
+}
+
+a { 
+	color: white; 
+}
+
+img a{
+	display: none;
+}
+
+td, th, table {
+	display: none;
+}
+
+footer {
+	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
 }
