@@ -1,3 +1,57 @@
+.mw-body, .bg_1 {
+	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.mw-body a {
+	color: yellow; 
+}
+
+.bg_1 a{
+	color: yellow;
+}
+
+
+/*.bg_1 {
+    display: none;
+}*/
+nav {
+	color: white;
+}
+.noprint {
+	display: none;
+}
+
+h2 {
+	color: red;
+	font-size: 100px;
+}
+
+p {
+	background-color: red;
+	color: white;
+	font-size: 18px;
+	padding: 10px;
+}
+
+
+
+img a{
+	display: none;
+}
+
+td, th, table {
+	display: none;
+}
+
+footer {
+	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
+}
+
+/*  /// without wiki css
+
 html {
 	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
 	background-color: black;
@@ -36,4 +90,4 @@ td, th, table {
 
 footer {
 	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
-}
+}*/
