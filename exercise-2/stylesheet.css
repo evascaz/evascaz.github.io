@@ -1,9 +1,15 @@
+h1 {
+	color: red;
+	font-size: 100px;
+}
+
 .mw-body, .bg_1 {
 	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
 	background-color: black;
 	text-align: center;
 	color: white;
 }
+
 
 .mw-body a {
 	color: yellow; 
@@ -14,9 +20,6 @@
 }
 
 
-/*.bg_1 {
-    display: none;
-}*/
 nav {
 	color: white;
 }
@@ -35,7 +38,6 @@ p {
 	font-size: 18px;
 	padding: 10px;
 }
-
 
 
 img a{
