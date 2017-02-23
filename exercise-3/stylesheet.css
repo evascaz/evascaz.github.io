@@ -1,0 +1,143 @@
+h1 {
+	color: red;
+	font-size: 100px;
+}
+
+#toc, #References, .references, #mw-navigation, #External_links, #catlinks, #footer-info {
+	display: none;
+	background-color: black;
+}
+
+.mw-body, .bg_1 {
+	/*background-image: url(Steve-Bannon-Wikipedia-files/president.png);*/
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+
+.mw-body a {
+	color: yellow; 
+}
+
+.bg_1 a{
+	color: yellow;
+}
+
+
+nav {
+	color: white;
+}
+.noprint {
+	display: none;
+}
+
+h2 {
+	color: red;
+	font-size: 50px;
+}
+
+p, #change{
+	background-color: red;
+	color: white;
+	font-size: 18px;
+	padding: 10px;
+}
+
+#change:hover {
+	font-size: 24px;
+}
+
+img a{
+	display: none;
+}
+
+td, th, table {
+	display: none;
+}
+
+footer {
+	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
+}
+
+/*.char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11*/
+.char1, .char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11, .char12{
+	
+	margin-left: .2em;
+	color: rgba(225,225,255,0);
+	text-shadow: 0px 0px 0.5em #fff;
+	-webkit-transition: all 1s ease-out 0s;
+	transition: all 1s ease-out 0s;
+}
+/*span:hover */
+
+span:hover {
+	text-shadow: none;
+	color: white;
+	-webkit-transition: scale(1.4);
+	transform: scale(1.4);
+}
+
+
+#misdemeanor, #breitbart, #testify {
+   background-color: black;
+   margin-left: .2em;
+	color: rgba(225,225,255,0);
+	text-shadow: 0px 0px 0.5em #fff;
+	-webkit-transition: all 2s ease-out 0s;
+	transition: all 2s ease-out 0s;
+}
+
+#misdemeanor:hover, #breitbart:hover, #testify:hover{
+	text-shadow: none;
+	color: white;
+	-webkit-transition: scale(1.4);
+	transform: scale(0));
+}
+
+
+
+/*#mw-indicator-pp-default img {
+	display: none;
+}*/
+/*  /// without wiki css
+
+html {
+	background-image: url(Steve-Bannon-Wikipedia-files/president.png);
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: red;
+	font-size: 300px;
+}
+
+h2 {
+	color: red;
+	font-size: 100px;
+}
+
+p {
+	background-color: red;
+	color: white;
+	font-size: 25px;
+	padding: 50px;
+}
+
+a { 
+	color: white; 
+}
+
+img a{
+	display: none;
+}
+
+td, th, table {
+	display: none;
+}
+
+footer {
+	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
+}*/
