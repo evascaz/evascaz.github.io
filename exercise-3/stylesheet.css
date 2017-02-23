@@ -58,7 +58,7 @@ td, th, table {
 
 
 /*.char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11*/
-/*.char1, .char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11, .char12{
+.char1, .char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11, .char12{
 	
 	margin-left: .2em;
 	color: rgba(225,225,255,0);
@@ -66,7 +66,7 @@ td, th, table {
 	-webkit-transition: all 1s ease-out 0s;
 	-webkit-transition: all 1s ease-out 0s;
 }
-/*span:hover */
+/*span:hover 
 
 /*span:hover {
 	text-shadow: none;
@@ -76,7 +76,7 @@ td, th, table {
 }
 */
 
-span, #misdemeanor, #breitbart, #testify {
+#misdemeanor, #breitbart, #testify {
    background-color: black;
    margin-left: .2em;
 	color: rgba(225,225,255,0);
