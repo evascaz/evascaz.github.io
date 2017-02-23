@@ -56,9 +56,6 @@ td, th, table {
 	display: none;
 }
 
-footer {
-	background-image: url(Steve-Bannon-Wikipedia-files/breitbard-news.png);
-}
 
 /*.char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11*/
 .char1, .char2 , .char3 , .char4, .char5, .char6, .char7 , .char8, .char9, .char10, .char11, .char12{
@@ -71,7 +68,7 @@ footer {
 }
 /*span:hover */
 
-span:hover {
+/*span:hover {
 	text-shadow: none;
 	color: white;
 	-webkit-transition: scale(1.4);
@@ -79,7 +76,7 @@ span:hover {
 }
 
 
-#misdemeanor, #breitbart, #testify {
+span #misdemeanor, #breitbart, #testify {
    background-color: black;
    margin-left: .2em;
 	color: rgba(225,225,255,0);
@@ -87,8 +84,8 @@ span:hover {
 	-webkit-transition: all 2s ease-out 0s;
 	transition: all 2s ease-out 0s;
 }
-
-#misdemeanor:hover, #breitbart:hover, #testify:hover{
+*/
+span:hover, #misdemeanor:hover, #breitbart:hover, #testify:hover{
 	text-shadow: none;
 	color: white;
 	-webkit-transition: scale(1.4);
