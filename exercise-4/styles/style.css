@@ -1,7 +1,7 @@
 body {
 	margin:0;
 	padding:0;
-	background: gray;
+	background: black;
 	font-family: Helvetica, Arial, sans-serif;
 }
 #container {
@@ -21,7 +21,7 @@ body {
 #header h1 {
 	margin:0;
 	padding-bottom:10px;
-	border-bottom:1px solid #eee;
+	border-bottom:1px solid #C2C7CA;
 
 }
 #header p {
@@ -71,6 +71,23 @@ h2 {
    text-align: center;
    line-height:40px;
 }
+#recent {
+	font-weight: bold;
+	font-size: 17px;
+   
+}
+
+.vertical_line{
+     border-right: 2px solid #C2C7CA;
+}
+
+span {
+	color: #32cd32;
+	font-weight: bold;
+	margin-left: 15px;
+	font-size: 17px;
+}
+
 
 /*for icons on pics position absolute then give margin 
 ...float left for the three footer elements
