@@ -1,0 +1,25 @@
+
+#swipe {
+  width: 300px;
+  height: 500px;
+  margin: 100px auto;
+  background: #efefef;
+  cursor: pointer;
+  font-style: bold;
+	text-align: center;
+	font-size: 60px;
+  	
+}
+.first {
+  background-color: magenta;
+  font-family: helvetica;
+  color: white;
+
+}
+.second {
+  background-color: yellow;
+  color: black;
+}
+.third {
+  background-color: cyan;
+}
