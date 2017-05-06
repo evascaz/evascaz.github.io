@@ -4,7 +4,7 @@ body {
 	background: black;
 	font-family: Helvetica, Arial, sans-serif;
 }
-
+ 
 #container {
 	background-color: white;
 	width: 375px;
@@ -81,7 +81,7 @@ body {
 	position: absolute;
 	width: 380px;
 	left:50%;
-	margin: -70px 0 0 -187.5px;
+	margin: -50px 0 0 -187.5px;
 
 }
 .foot {
