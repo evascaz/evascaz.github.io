@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-color: black;
+}
+
+.box {
+    color: white;
+    background-color: black;
+    padding: 110px 280px 110px 300px;
+        font: normal 20px helvetica, sans-serif;
+}
+a {
+   text-decoration: none;
+   color: white;
+}
+
+#spr-17:hover {
+	background-color: #9FA8DA;
+	color: black;
+}
+#spr-15:hover {
+	background-color: #4DB6AC;
+	color: black;
+}
+#fall-15:hover {
+	background-color:  #651FFF;
+	color: black;
+}
+#spr-16:hover {
+	background-color: #69F0AE;
+	color: black;
+}
+#fall-16:hover {
+	background-color: #3D5AFE;
+	color: black;
+}
+#win-17:hover {
+	background-color: #2ecc71;
+	color: black;
+}
+@media 
+only screen and (max-width: 800px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+  /* Force table to not be like tables anymore */
+  table, thead, tbody, th, td, tr { 
+    display: block; 
+  }
+}
+
